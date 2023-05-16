@@ -311,7 +311,7 @@ button,
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 25px;
+  gap: 20px;
 }
 
 .post-comment .profile-img{
@@ -330,7 +330,7 @@ button,
   flex-grow: 1;
   height: 39px;
   color: rgba(255,255,255,0.8);
-  padding: 5px 10px;
+  padding: 5px 10px 5px 20px;
 }
 
 .post-comment input[type="submit"]{background: var(--color-blue);}
