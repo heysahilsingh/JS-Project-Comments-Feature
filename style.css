@@ -220,16 +220,16 @@ button,
 }
 
 .comment .actions .edit:before {
-  background-image: url("/assets/icon-edit.svg");
+  background-image: url("./assets/icon-edit.svg");
 }
 .comment .actions .delete:before {
-  background-image: url("/assets/icon-delete.svg");
+  background-image: url("./assets/icon-delete.svg");
 }
 .comment .actions .reply:before {
-  background-image: url("/assets/icon-reply.svg");
+  background-image: url("./assets/icon-reply.svg");
 }
 .comment .actions .report:before {
-  background-image: url("/assets/icon-report.svg");
+  background-image: url("./assets/icon-report.svg");
 }
 
 /* Comment Bottom */
