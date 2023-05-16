@@ -19,7 +19,7 @@ The project contains the following files:
 ## Getting Started
 To run the project, simply open the index.html file in a web browser. The web application will be displayed, and you can interact with the comment functionality by posting comments, replying to comments, editing comments, deleting comments, and reporting comments.
 
-[See it live here.](https://choosealicense.com/licenses/mit/)
+[See it live here.](https://heysahilsingh.github.io/JS-Project-Comments-Feature/)
 
 # Contributing
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any contributions, bug fixes, or improvements are welcome.
